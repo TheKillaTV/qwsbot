@@ -6,11 +6,11 @@
   "keywords": ["api.ai", "kik", "natural language"],
   "env": {
     "APP_NAME": {
-      "description": "Copy App Name here",
+      "description": "qwsbot",
       "value": ""
     },
     "KIK_API_KEY": {
-      "description": "Kik Api key",
+      "description": "a907b85e-637d-4407-9ecb-7553bcae9572",
       "value": ""
     },
     "APIAI_ACCESS_TOKEN": {
